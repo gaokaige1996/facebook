@@ -1,0 +1,9 @@
+comment_js_4a | Noah Hogan | 100001520275567 |  | None | None | None
+comment_js_4b | Walter Dean | 100002080945916 | True! | None | None | None
+comment_js_4c | Elijah Gilbert | 100010283415335 | Hopefully | None | None | None
+comment_js_4d | Karel Van Der Bloem | 1659663951 | We will see ! | None | None | None
+comment_js_4e | Irene Yasmin | 5236933 | I hope so! ✨ | None | None | None
+comment_js_4f | Jake Up | 100001479614544 | Christmas. | None | None | None
+comment_js_4g | Christine Scherzinger | 570564880 | Two very special lit | None | None | None
+comment_js_4j | Mike Collesides | 1657332018 | Natashia Paschal 😊❤️ | None | None | None
+comment_js_4k | Maria Angelica Antequera | 518598178 | #SOSVENEZUELA#OAS#Un | None | None | None

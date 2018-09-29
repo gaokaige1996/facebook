@@ -1,0 +1,88 @@
+comment_js_2a4 | Anna Elizabeth | 100008701389219 | I'm a ravenclaw and  | None | None | None
+comment_js_2a5 | Emily Rachel Buck | 655583960 | Ravenclaw proud and  | None | None | None
+comment_js_2ah | Jasmine R. Snyder | 100000299083741 | Ravenclaw! Proud and | None | None | None
+comment_js_2ai | Analiese Pappas | 100014180748870 | I'm an enthusiastic  | None | None | None
+comment_js_2aj | Desirae Fischer | 592348672 | This makes me want t | None | None | None
+comment_js_2ak | Ashley Hannigan | 752564174 | Ravenclaw or Hufflep | None | None | None
+comment_js_2al | Megan Baché | 661208416 | I'm a Ravenclaw beca | None | None | None
+comment_js_2am | Stephanie Anne | 573992001 | Ravenclaw! I was in  | None | None | None
+comment_js_2aq | Laura Burris | 687065693 | Ravenclaw according  | None | None | None
+comment_js_2ar | Laurel Patrick | 1288140010 | Ravenclaw! | None | None | None
+comment_js_2as | Beth Tripp Moss | 1407717552 | I was already an adu | None | None | None
+comment_js_2at | Sirius Rain | 1094777640 | Proud Ravenclaw sinc | None | None | None
+comment_js_2au | Merissa Glass | 1030816383 | Hufflepuff,we're jus | None | None | None
+comment_js_2av | Prince MJ Garcia | 1484648529 | Ravenclaw! I am 42 a | None | None | None
+comment_js_2aw | Ana Quintanilla | 100003601952867 | Gryffindor at heart! | None | None | None
+comment_js_2ax | Sarah McLaughlin | 597681349 | Did you know that if | None | None | None
+comment_js_2ay | Andrew Fulmer | 1368000226 | I like that the two  | None | None | None
+comment_js_2az | Leslie Spence | 668379505 | I was 8 years old wh | None | None | None
+comment_js_2b0 | Alysan Rouse | 100001940865741 | Pottermore sorted me | None | None | None
+comment_js_2b3 | Tatiana Charvet | 100007346596986 | At first glance, swa | None | None | None
+comment_js_2b6 | Jane Moler | 100006802655724 | Harry Potter the Boy | None | None | None
+comment_js_2b7 | EJ Ortega | 100002649956098 | Twenty years ago a d | None | None | None
+comment_js_2ba | Lonnie Yust | 100000290014761 | I read them all as a | None | None | None
+comment_js_2bi | Ashley Lustrum | 71701917 | Ravenclaw <3 | None | None | None
+comment_js_2bj | Ellen Kunce | 795805098 | Hufflepuff | None | None | None
+comment_js_2bk | Taralynn Ruiz | 578139289 | Gryffindor! | None | None | None
+comment_js_2bl | Trisha King | 507828833 | Slytherin for life. | None | None | None
+comment_js_2bm | Patrick Raj | 1370134902 | EVADA KAVEDA....(it  | None | None | None
+comment_js_2bn | Amanda Wells Hayes | 100006164318158 | Slytherin and have n | None | None | None
+comment_js_2bq | Destiny Smith | 100003801490264 | Gryffindor ❤☇ | None | None | None
+comment_js_2br | Sara Roster | 1180260032 | Gryffindor | None | None | None
+comment_js_2bs | Sarah McLaughlin | 597681349 | Gryffindor | None | None | None
+comment_js_2bt | Brenda L Sommers | 100000500800560 | Gryffindor | None | None | None
+comment_js_2bu | Jessie Carlson | 622836468 | Gryffindor! 💛❤️🦁 | None | None | None
+comment_js_2bv | Julie Helferich | 100000226040315 | Gryffindor | None | None | None
+comment_js_2bw | Fae Aeval | 100001676105972 | Gryffindor | None | None | None
+comment_js_2bx | Krystal Ramirez | 1633627332 | Gryffindor 🦁 | None | None | None
+comment_js_2by | Jessie Mekus | 527794481 | Slytherin all the wa | None | None | None
+comment_js_2bz | Barbara Haines Ettinger | 521329065 | Gryffindor | None | None | None
+comment_js_2c0 | Kim Welch | 1399897964 | Gryffindor! | None | None | None
+comment_js_2c1 | Avigayil Lieber | 691370261 | Go Go Gryffindor!!! | None | None | None
+comment_js_2c2 | A.J. Jessup | 59702731 | Gryffindor | None | None | None
+comment_js_2c3 | Brandi Senger | 603466115 | Proud Slytherin! 🐍 | None | None | None
+comment_js_2c4 | Rachel Mekus | 1358550061 | Hufflepuff. | None | None | None
+comment_js_2c5 | Dana Leigh Elizalde | 1686573172 | Gryffindor 🦁 | None | None | None
+comment_js_2c6 | Riley Brannian | 100001485491523 | Gryffindor! | None | None | None
+comment_js_2c7 | Eric Jacobs | 759635299 | Ravenclaw | None | None | None
+comment_js_2c8 | Wednesday Sampson | 100000702692073 | Ravenclaw | None | None | None
+comment_js_2c9 | Erica Gandy Paddock | 1328321930 | Gryffindor 😊 | None | None | None
+comment_js_2ca | Jensen Lee | 69603077 | It's a toss up betwe | None | None | None
+comment_js_2cb | Nicole Lindamood | 100002552182052 | Slytherin! Loud and  | None | None | None
+comment_js_2cc | Hayley Elizabeth Pardue | 100000032174130 | Ravenclaw | None | None | None
+comment_js_2cd | Rachel Hale | 58403824 | I think I'm 50-50 Ra | None | None | None
+comment_js_2ce | Lauren Aren J | 684108727 | Proud Hufflepuff! 💛💛 | None | None | None
+comment_js_2cf | Joshua Preston | 100004759476819 | Hufflepuff | None | None | None
+comment_js_2cg | Ariel Rubio | 1227485278 | Slytherin. Snape is  | None | None | None
+comment_js_2ch | Dana Updike | 1357907675 | Hufflepuff, but my d | None | None | None
+comment_js_2ci | Dynah Vidaurre | 640058904 | I am a Gryffindor | None | None | None
+comment_js_2cj | Kat Atkins | 1262760011 | Ravenclaw proud!!! | None | None | None
+comment_js_2ck | Heather Ortiz | 100000123883149 | I was sorted into Hu | None | None | None
+comment_js_2cl | Crystal Clare | 1486389867 | Ravenclaw. Always ha | None | None | None
+comment_js_2cm | Andrew Snyder | 1015522502 | Ravenclaw | None | None | None
+comment_js_2cn | Taylar Ann | 100002868416307 | Hufflepuff! | None | None | None
+comment_js_2co | Maile E. Deasy | 1380346943 | Hufflepuff 😊 | None | None | None
+comment_js_2cp | Gina Poore | 100000724659097 | Ravenclaw! | None | None | None
+comment_js_2cq | Lisa Miller | 1486856973 | Ravenclaw all the wa | None | None | None
+comment_js_2cr | Darci Isherwood | 1661145728 | Hufflepuff | None | None | None
+comment_js_2cs | Sinclair Nancy Duncan-Mercer | 838917165 | Slytherin but potter | None | None | None
+comment_js_2ct | Lauryn Swaney | 100002290372377 | Slytherin Pride 💚🖤💚🖤 | None | None | None
+comment_js_2cu | Patty Gamez Nolan | 1467900994 | Hufflepuff | None | None | None
+comment_js_2cv | Joanna Bluefield | 31501595 | Ravenclaw 💙 | None | None | None
+comment_js_2cw | Hannah McInnis | 1285740041 | Hufflepuff ! | None | None | None
+comment_js_2cx | Alyse Stickley | 640960660 | Ravenclaw | None | None | None
+comment_js_2cy | Denise Patterson | 1034430786 | Gryffindor!! | None | None | None
+comment_js_2cz | Ana Costa Lenhart | 25505503 | Hufflepuff and my hu | None | None | None
+comment_js_2d0 | Betty Ferry | 100001669391515 | Ravenclaw 💙 | None | None | None
+comment_js_2d1 | Angie Matson Reed | 600047213 | I still love Harry P | None | None | None
+comment_js_2d2 | Kt Roland | 1522657398 | Ravenclaw! | None | None | None
+comment_js_2d3 | Jennifer Frazee-Whitcomb | 515751399 | Hufflepuff 💛 | None | None | None
+comment_js_2d4 | Swati Ramble Sharma | 1244150778 | Gryffindor! | None | None | None
+comment_js_2d5 | Hannah Elizabeth Ready | 100000517492769 | Ravenclaw | None | None | None
+comment_js_2d6 | Ashley Mantras | 707077628 | Hufflepuff pride ⚡️💛 | None | None | None
+comment_js_2d7 | Heather Burelle | 100000158826027 | Ravenclaw all the wa | None | None | None
+comment_js_2d8 | Cindy de Keuster | 538334084 | gryffindor 💖 | None | None | None
+comment_js_2d9 | JasonandMisty Queen | 1454476679 | Gryffindor! | None | None | None
+comment_js_2da | Meghan Gill | 100003720525326 | Slytherin all the wa | None | None | None
+comment_js_2db | Emily C Baccomo | 100002065550947 | Gryffindor | None | None | None
+comment_js_2dc | Brandon Witmer | 675986406 | Ravenclaw! | None | None | None

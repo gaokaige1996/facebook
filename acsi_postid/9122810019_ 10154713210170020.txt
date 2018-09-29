@@ -1,0 +1,15 @@
+comment_js_d3 | Alex Bollman | 715625706 | You can love both... | None | None | None
+comment_js_d4 | Brandy Copeland | 100001241860358 | Boycotting super bow | None | None | None
+comment_js_d7 | Cait Davidson | 1201588232 | Protesting the Super | None | None | None
+comment_js_d8 | Thaddeus E. Jackson | 100001613877621 | Reading is not bette | None | None | None
+comment_js_d9 | Amy Chadbourne | 1017793765 | I love my books but  | None | None | None
+comment_js_da | Sam Jimenez | 100002757474889 | I work for this comp | None | None | None
+comment_js_db | Bev Peters Follin | 1345868856 | Football Fan who lov | None | None | None
+comment_js_dc | Jared J Kauffman | 566408993 | It's really fun to a | None | None | None
+comment_js_dd | Josh Thomas | 1056814737 | I seriously consider | None | None | None
+comment_js_de | Bianca Snaefellsjökull Sandale | 1344441362 | its super bowl today | None | None | None
+comment_js_dk | Kathleen Taylor | 1233600988 | Today for sure readi | None | None | None
+comment_js_dl | Jim Birch | 100000037000965 | Not sure why you can | None | None | None
+comment_js_dm | Jill Weiner | 1282436372 | Anything is better t | None | None | None
+comment_js_dp | Margaret Whitaker | 100000857563637 | Wrong. | None | None | None
+comment_js_dt | Katelyn Rose | 1486142627 | Colette Rose | None | None | None

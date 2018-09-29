@@ -1,0 +1,35 @@
+comment_js_15f | Anita Rodriguez | 100001738531581 | Anne Shirley and Gil | None | None | None
+comment_js_15i | Linh Khanh Huynh | 1412064819 | Jane Eyre and Edward | None | None | None
+comment_js_15l | Doris Greenberg | 100002945810996 | Jane Eyre and Mr. Ro | None | None | None
+comment_js_15m | Debbie Dunaway DeMuth | 100005468628960 | John 3:16 | None | None | None
+comment_js_15n | Sara Hargis | 677459490 | Westley and Buttercu | None | None | None
+comment_js_15o | Shylin Alvarez | 1289482642 | Charlotte and Wilbur | None | None | None
+comment_js_15p | Yvonne Alier | 100000161760686 | A Tale Of Two Cities | None | None | None
+comment_js_15s | Liz Azzinaro | 100000376204958 | Romeo and Juliet 😭 | None | None | None
+comment_js_15t | Deanna Albury Stecker | 100000354473103 | Jane and RochesterAn | None | None | None
+comment_js_15u | Debra Jones Williams | 100000958993702 | Cathy and Heathcliff | None | None | None
+comment_js_15v | Claire Blumig | 1274295839 | Thorn Birds | None | None | None
+comment_js_15w | Tanya Eileen | 612612146 | Jane Eyre and Edward | None | None | None
+comment_js_15x | Courtney Quibodeaux | 100001498527573 | Anne Shirley and Gil | None | None | None
+comment_js_15y | Sherry Lynn Dittrich | 100011074900316 | For me: The Thorn Bi | None | None | None
+comment_js_15z | Humaira Fawad | 100001082913703 | Gone with the wind | None | None | None
+comment_js_160 | Claudia Guevara | 100001192125821 | Love Singer Sargent | None | None | None
+comment_js_161 | Susan Johnson | 100001168821280 | A Farewell To Arms ~ | None | None | None
+comment_js_162 | Susan Steinbach | 100015463723738 | I'd like to know~but | None | None | None
+comment_js_163 | Cassandra Zervas | 634804041 | Frederick and Anne f | None | None | None
+comment_js_164 | Dawn Lepire | 1165269063 | Like Water for Choco | None | None | None
+comment_js_165 | Barbara Bishop | 100000479393334 | Jane Eyre | None | None | None
+comment_js_166 | Janice Coleman | 100003324721483 | Darcy & Lizzy | None | None | None
+comment_js_167 | Mary OKeefe | 100002444807440 | Amelia Peabody and t | None | None | None
+comment_js_168 | Geoffrey Edward McCool | 100006432752154 | Another favorite art | None | None | None
+comment_js_16d | Jennifer Sweet | 1000628816 | Janie and Tea Cake f | None | None | None
+comment_js_16e | Deborah Fay Dempsey | 1546641191 | Jamie and Claire in  | None | None | None
+comment_js_16f | Velma Yadira Lerma | 1230716415 | Elizabeth and Mr. Da | None | None | None
+comment_js_16g | Kelley Francis Neal | 1152104732 | Romeo and Juliet | None | None | None
+comment_js_16h | Karla Ramirez | 100001203431162 | Pride and Prejudice | None | None | None
+comment_js_16i | Epiphany Huff | 100002974837732 | Lacy and Cole- Lacy  | None | None | None
+comment_js_16j | Pam Clarke | 100005059383404 | Wuthering Heights. | None | None | None
+comment_js_16k | Md Mahamudul Hasan Rajib | 100003389194198 | Definitely, Wutherin | None | None | None
+comment_js_16l | Leann Seipel | 23413259 | A Tale of Two Cities | None | None | None
+comment_js_16m | Chela M Bena | 100000695884960 | Too many to say! | None | None | None
+comment_js_16n | Emm A Aar | 100008276595417 | Gatsby | None | None | None

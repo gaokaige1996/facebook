@@ -1,0 +1,17 @@
+comment_js_7y | Jason Smith | 510783198 | Zeus can't shoot lig | None | None | None
+comment_js_7z | Tiffani White | 100000458196612 | In his defense your  | None | None | None
+comment_js_80 | Dylan King | 100001498000553 | Zeus uses data and V | None | None | None
+comment_js_81 | Dustin Johnson | 100012664383016 | That's pretty much h | None | None | None
+comment_js_82 | Rebecca van Oene | 100000442545021 | Megan Craig I feel l | None | None | None
+comment_js_83 | Jen LaDuke | 20006719 | Mikel Villalobos | None | None | None
+comment_js_86 | Marie Smith Perez | 100014418827654 | Twan Crow Lee | None | None | None
+comment_js_87 | Urška Bračko | 1530695681 | Danijela S. Jejcic,  | None | None | None
+comment_js_88 | Nicole Humphrey | 100000255645265 | Stephanie Romans | None | None | None
+comment_js_89 | Gina Russo | 198603175 | Danielle Antoniello | None | None | None
+comment_js_8a | Shaylee VanDyke | 1452510085 | Ronnie VanDyke | None | None | None
+comment_js_8b | Éamonn Shults | 100002547459057 | Amelia Ruth Western | None | None | None
+comment_js_8c | Ellen Wachter Pavelich | 100000523618300 | Mari Pavelich | None | None | None
+comment_js_8d | Kristina Menon | 1258854098 | Maya Menon | None | None | None
+comment_js_8e | Ellen Murray | 100002532026276 | Brittany Almeida | None | None | None
+comment_js_8f | Adam D. Goodman | 100009849828595 | Louise Walsh | None | None | None
+comment_js_8g | Anne Saffron | 579620355 | Meg Woods | None | None | None

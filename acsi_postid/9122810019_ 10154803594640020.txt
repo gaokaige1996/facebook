@@ -1,0 +1,8 @@
+comment_js_5p | José Bueno | 100000109093667 | Estuve en vuestra ti | None | None | None
+comment_js_5q | Michelle Williams | 100015262500672 | This quote is posted | None | None | None
+comment_js_5u | Jason West | 1571599469 | sure | None | None | None
+comment_js_5v | Jeanine Dersch Moyer | 100001223311549 | Absolutely! | None | None | None
+comment_js_5y | Sarah Batey | 100001089565158 | Bella | None | None | None
+comment_js_5z | Susan Swinford | 100001062455095 | Ashley Swinford | None | None | None
+comment_js_60 | Nancy Payne McEachern | 1346707914 | Alison Hunt Frenzel  | None | None | None
+comment_js_61 | Julie Nelson Chisholm | 1328044334 | Maureen Shea Holt | None | None | None

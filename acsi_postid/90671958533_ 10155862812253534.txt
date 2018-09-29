@@ -1,0 +1,28 @@
+comment_js_f0 | Wai Szeto | 732885503 | I can’t wait to buy  | None | None | None
+comment_js_f1 | Venus Washington | 100002012559778 | That's a nice blue 😍 | None | None | None
+comment_js_f2 | Maillard Laurent | 1066603285 | Lexus is now the onl | None | None | None
+comment_js_f3 | Sally Basiliere | 100002466927334 | Beautiful color. Sur | None | None | None
+comment_js_f4 | Brandon M. Moskos | 1288546946 | Thank you Lexus Love | None | None | None
+comment_js_f5 | Suzette Jacques | 1748375815 | It's the new "oh s-- | None | None | None
+comment_js_f6 | Chong Kit | 578807831 | Its there for you to | None | None | None
+comment_js_f7 | Jesze Leh | 100003594977645 | Man I wish this colo | None | None | None
+comment_js_f8 | Pasqual Michels | 100001025673770 | My wife would need i | None | None | None
+comment_js_fb | Cuong Maingoc | 100012596342496 | i driver test agency | None | None | None
+comment_js_fc | Huỳnh Thái | 100005568943139 |  | None | None | None
+comment_js_fd | Toqeer Abbas Sandhu | 100006177162594 | One said #love... | None | None | None
+comment_js_fe | Ulysses Molina | 1781217850 | Look at this interio | None | None | None
+comment_js_ff | Tamás Fazekas | 100013198746788 | Váááuhhhh! 👌👍👏 | None | None | None
+comment_js_fg | 王春偉 | 100002523296265 |  | None | None | None
+comment_js_fh | Natalia Maria | 100000579865096 |  | None | None | None
+comment_js_fi | Hans-Jörg Retzlaff | 100009358929416 | Oh!!! 👍 | None | None | None
+comment_js_fj | Pilar Rodriguez | 100000432176281 |  | None | None | None
+comment_js_fk | Russ Acheson | 1664954080 | Legroom? | None | None | None
+comment_js_fl | Russ Acheson | 1664954080 | Legroom | None | None | None
+comment_js_fm | Alveena Shah | 100003828387263 | Superb | None | None | None
+comment_js_fn | Benjamin Hahn | 100002618510390 | Exquisite | None | None | None
+comment_js_fo | Tim Jones | 1428485836 | Poor passengers! :D | None | None | None
+comment_js_fp | Dimanche Ing | 100001085037428 | Luxury! | None | None | None
+comment_js_fq | Stacy W. Mullins | 100002608874336 | Good post | None | None | None
+comment_js_fr | Inna Kosenko | 100017072206734 | good auto | None | None | None
+comment_js_fs | Ashley S. Bolling | 100006333821734 | This is a great | None | None | None
+comment_js_ft | Ismail M - Fawzy | 100004994717374 | Ooooooooo :'( | None | None | None

@@ -1,0 +1,39 @@
+comment_js_q9 | Kelly Morris Samons | 1234983431 | Usually some mystery | None | None | None
+comment_js_qa | Shelly Hampton DeAtley | 1411128992 | I like my vacays to  | None | None | None
+comment_js_qb | Darby Morris Herlong | 1639945810 | There are a lot of d | None | None | None
+comment_js_qc | Solange Couture | 100000271900849 | One of my favorites. | None | None | None
+comment_js_qd | Ruth Rocka | 100000167807557 | I love to read any c | None | None | None
+comment_js_qg | Sandra Beberian | 100008102226521 | A classic mystery, l | None | None | None
+comment_js_qj | Carol Belk | 100001559033402 | I read "Salem's Lot" | None | None | None
+comment_js_qk | Shari Brewster Burns | 1721136359 | Cozy murder mysterie | None | None | None
+comment_js_ql | Greg Santucci | 100003541061990 | I read the original  | None | None | None
+comment_js_qm | Tina Reed | 1612067874 | I like to tackle cla | None | None | None
+comment_js_qn | Claudia Ries-Nichols | 1146991853 | "Barefoot" by Elin H | None | None | None
+comment_js_qo | Tim Haitsma | 1494344000 | I can't pick just an | None | None | None
+comment_js_qp | Tanya Eileen | 612612146 | A book with many twi | None | None | None
+comment_js_qq | Donna Wallace | 1428787317 | bringing Barbara Tra | None | None | None
+comment_js_qr | Megan Davis | 739478010 | You just need to scr | None | None | None
+comment_js_qs | Darby Morris Herlong | 1639945810 | I love these posts b | None | None | None
+comment_js_qt | Shari Myers Groh | 100002582947545 | All of the books by  | None | None | None
+comment_js_qu | Grace Slick Zamora | 100000492480020 | Any book! | None | None | None
+comment_js_qx | Malinda Wilson | 100001926252217 | Beach Music by Pat C | None | None | None
+comment_js_r0 | Emily Upshur | 711902910 | Treasure Island if i | None | None | None
+comment_js_r1 | Barbara Greenman | 100010203395460 | The book you're read | None | None | None
+comment_js_r2 | Lisa Jeffries Jones | 100006939521234 | The best book to rea | None | None | None
+comment_js_r3 | Apryl Walker | 100002098970823 | 100 summers | None | None | None
+comment_js_r4 | Nancy-Chuck Barry | 1106331473 | Anything by Kristan  | None | None | None
+comment_js_r5 | Susie Castañeda | 100000234195150 | The Lovely Bones | None | None | None
+comment_js_r6 | Vance Bentley | 1067766124 | Anything from Ernest | None | None | None
+comment_js_r7 | Carrie Abke | 100000793405421 | The Shack | None | None | None
+comment_js_ra | Viviana Mendez | 100001896095866 | Whatever I'm reading | None | None | None
+comment_js_rb | Jen Ludwick | 100008141792775 | Anything by Karin Sl | None | None | None
+comment_js_rc | Cathy Banker | 100002085595427 | Any book! | None | None | None
+comment_js_rd | Mari-Bess Cary | 15609787 | The Night Circus, su | None | None | None
+comment_js_re | Diana Hawkins | 1528364915 | Anything by Jane Aus | None | None | None
+comment_js_rf | Marcie Ortega | 100009333742286 | Warrior Cats! Perfec | None | None | None
+comment_js_rg | Elvira Rodriguez | 100013489303634 | Tropic of Cancer | None | None | None
+comment_js_rh | Diana Bloom | 759124162 | BLACK ROBE | None | None | None
+comment_js_ri | Erica Olivera | 1661980104 | Something light, fun | None | None | None
+comment_js_rj | Milena Stoilkovic | 1467849121 | To the Lighthouse by | None | None | None
+comment_js_rk | Richard Robert Drabik | 1014727938 | Roverrandom by JRR T | None | None | None
+comment_js_rl | Tini Nozadze | 100015964357810 | "The dandelion wine" | None | None | None

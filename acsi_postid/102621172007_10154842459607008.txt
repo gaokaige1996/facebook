@@ -1,0 +1,10 @@
+comment_js_k | Bryan Phifer | 100001813866341 | DOLLAR TREE IN MAXTO | None | None | None
+comment_js_l | Vicki Corby | 100000025773106 | I did majority of my | None | None | None
+comment_js_m | Tamera Jones | 100003855696202 | I love Dollar Tree.I | None | None | None
+comment_js_10 | Nancy Haire | 100003301004730 | I love this store | None | None | None
+comment_js_o | Debbie Murray | 100008239443888 | The best place aroun | None | None | None
+comment_js_11 | Gloria Klingborg | 100000108863230 | I love shopping ther | None | None | None
+comment_js_12 | Sandra Barfield | 100002794299550 | I love the Dollar Tr | None | None | None
+comment_js_r | Jennifer Dargenio | 1353483195 | Love this store too! | None | None | None
+comment_js_13 | Mila MacNaughton | 100000419267893 | My favorite store. | None | None | None
+comment_js_t | Ruth Noemi Flores Sanchez | 100002124988149 | Saludo amiga gusta | None | None | None

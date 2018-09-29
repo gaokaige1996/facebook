@@ -1,0 +1,4 @@
+comment_js_er | Lisa Cushman | 622344674 | It's the $49.99 one | None | None | None
+comment_js_fa | Rachel Hook Whitman | 100001656932811 | Alisha Hook | None | None | None
+comment_js_fb | Karen Opperman | 100000470362571 | Dianne Timm | None | None | None
+comment_js_fc | Becky Pratt | 100000674213127 | Mary Umbanhowar | None | None | None

@@ -1,0 +1,85 @@
+comment_js_3b3 | Brittany Yost | 100001425591642 | The Harry Potter boo | None | None | None
+comment_js_3b4 | Brandi Turner Gregory | 1502304017 | I read Tom Sawyer, B | None | None | None
+comment_js_3b5 | Emilie Oveson | 1663346759 | Other than reading c | None | None | None
+comment_js_3b6 | Dawn Lepire | 1165269063 | I read Charlotte's W | None | None | None
+comment_js_3b9 | Brenda Jaques | 100001831763143 | I tend to not read b | None | None | None
+comment_js_3ba | Alara Hillton | 100002782937596 | 1) the confederacy o | None | None | None
+comment_js_3bb | Holly Lambert | 1318226919 | Up a road slowly by  | None | None | None
+comment_js_3bc | Kelly Morris Samons | 1234983431 | From childhood my fa | None | None | None
+comment_js_3bl | Dawn Brinkman | 100007795816409 | The Talisman, Eyes o | None | None | None
+comment_js_3br | Dana Michelle | 1586558308 | Dragon Prince by Mel | None | None | None
+comment_js_3bs | Jeanne Rife | 1607053606 | It's a trifecta -- L | None | None | None
+comment_js_3bt | Kania McKalliah | 100003219976521 | Never in my life hav | None | None | None
+comment_js_3bu | Jessica Achuff | 100004975668414 | I'm a repeat type of | None | None | None
+comment_js_3bv | Katie Cook | 58403476 | The Giver. I've read | None | None | None
+comment_js_3bw | Walter Phillip Snyder | 1163503800 | LOTR. The Bible, par | None | None | None
+comment_js_3bx | Rachel Hale | 58403824 | Harry Potter and the | None | None | None
+comment_js_3c3 | Dawn Kinson | 100005059873670 | so many! Watership D | None | None | None
+comment_js_3c4 | Nancy S Russell | 1834604525 | "The Immortal Life o | None | None | None
+comment_js_3c5 | Sandy Davis | 651278309 | Outlander, Lord of t | None | None | None
+comment_js_3c6 | Anita Rodriguez | 100001738531581 | The Dark is Rising s | None | None | None
+comment_js_3c7 | Mark Halperin | 100001144547668 | I have read Bleak Ho | None | None | None
+comment_js_3c8 | Eldonna Bryant | 1392845239 | Other than the Bible | None | None | None
+comment_js_3c9 | Dawn Wyman | 1169805274 | Gone With the Wind,  | None | None | None
+comment_js_3ca | Frances Christman | 700656459 | Anne of Green Gables | None | None | None
+comment_js_3cb | Sara Essig | 100001756432749 | Pride and Prejudice, | None | None | None
+comment_js_3cc | Chris Saltzman-Gammill | 1159690291 | The Lord of the Ring | None | None | None
+comment_js_3cd | Avi DePano | 74800963 | From the Mixed-Up Fi | None | None | None
+comment_js_3ce | Alayna Caballero | 100001201021210 | Top three are Jane E | None | None | None
+comment_js_3cf | Patti Elliott | 100003895183328 | I don't tend to re-r | None | None | None
+comment_js_3cg | Elizabeth Pachella | 100004480957048 | I love all that I ha | None | None | None
+comment_js_3ch | Angie Rasmussen | 1079226890 | The Outsiders by SE  | None | None | None
+comment_js_3ci | Kate Miller | 1452764761 | The Christmas Box by | None | None | None
+comment_js_3cj | Pam Clarke | 100005059383404 | The Egg and I, The P | None | None | None
+comment_js_3ck | Jacque Gravelle | 100000165966724 | The Holy Man by Susa | None | None | None
+comment_js_3cl | Marsha de Brestian | 1824997116 | Everything Diana Gab | None | None | None
+comment_js_3cm | Peggy Boatman Younger | 1047700153 | So many books, so li | None | None | None
+comment_js_3cn | Jeannine Winslow | 1144083314 | Jane Eyre! She is su | None | None | None
+comment_js_3co | Becki Beisner Thompson | 1387917270 | Anne of Green Gables | None | None | None
+comment_js_3cp | Anne Allen | 1671105893 | Angela Thirkell. Lov | None | None | None
+comment_js_3cq | Anne D. Kulander | 1600376210 | Jane Eyre, Gone With | None | None | None
+comment_js_3cr | Hank Randall | 649303585 | Either Isaac Asimov' | None | None | None
+comment_js_3cs | Mary OKeefe | 100002444807440 | Wolf Hall, Our Mutua | None | None | None
+comment_js_3ct | Pam Butcher | 100001616916778 | Gone with the Wind. | None | None | None
+comment_js_3cu | Sally Black | 100000463643311 | HItchhiker's Guide t | None | None | None
+comment_js_3cv | Debi J. L. Albright | 533721434 | Dragonriders of Pern | None | None | None
+comment_js_3cw | Heather Head | 721191675 | The Harry Potter ser | None | None | None
+comment_js_3cx | Justine McComas | 1526603216 | Pretty much all of A | None | None | None
+comment_js_3cy | Jennifer Minnick | 1508266696 | Summon the Keeper by | None | None | None
+comment_js_3d1 | Sergio Cruanes | 100005552891087 | Reread Frank Herbert | None | None | None
+comment_js_3d2 | Prince MJ Garcia | 1484648529 | Marie Antoinette by  | None | None | None
+comment_js_3d3 | Jennifer Nicholas Allred | 1370629177 | Outlander series! | None | None | None
+comment_js_3d8 | Gelinda Allen | 1080484839 | None 😔. I am, howeve | None | None | None
+comment_js_3d9 | Debra Jones Williams | 100000958993702 | The Stand by Stephen | None | None | None
+comment_js_3da | Nestor Cedeno | 692356904 | Fahrenheit 451 | None | None | None
+comment_js_3db | Dana Fleischman Lehrman | 1269909919 | Hate to sound like a | None | None | None
+comment_js_3dc | Stephanie Rhoades | 1036626701 | Graclin OMalley. By  | None | None | None
+comment_js_3dd | Betty Glasgow Hanawa | 1362885840 | The Secret Garden by | None | None | None
+comment_js_3de | Linda Barrett | 100008921733225 | A Tree Grows in Broo | None | None | None
+comment_js_3df | Carol C Reece | 100001960315700 | Sense and Sensibilty | None | None | None
+comment_js_3dg | Mary Goeglein | 1457618162 | Outlander by Diana G | None | None | None
+comment_js_3dh | Dianne Ferris Lee | 1446279110 | Outlander series | None | None | None
+comment_js_3di | Misty Hale | 100000103631870 | The Hayle Coven nove | None | None | None
+comment_js_3dj | Joey Hubbard | 1835936171 | Honestly, I can neve | None | None | None
+comment_js_3dk | Amy Moore Elias | 1508046094 | Mandy by Julie Andre | None | None | None
+comment_js_3dl | Gayle Elliott | 1270821240 | The Great Gatsby | None | None | None
+comment_js_3dm | Valerie Glines Messina | 591379400 | Little Women. It is  | None | None | None
+comment_js_3dp | Margie Stewart Adamson | 1297081803 | Pride and Prejudice | None | None | None
+comment_js_3ds | Shelby Lindrud | 523010252 | LOTR and the Harry P | None | None | None
+comment_js_3dt | Isabelle Segadelli | 100016710487640 | Harry Potter (all of | None | None | None
+comment_js_3du | Lori Adams | 707124020 | Great Expectations | None | None | None
+comment_js_3dv | Tanya Webber Rhoades | 1158836414 | Laura Ingalls Wilder | None | None | None
+comment_js_3dw | Karen Naponic | 100002276054431 | charlottes web!! | None | None | None
+comment_js_3dx | Stephanie Harris | 1739630540 | Their Eyes Were Watc | None | None | None
+comment_js_3dy | Doris Greenberg | 100002945810996 | Jane Eyre | None | None | None
+comment_js_3dz | Sherry Chew | 1707040946 | Jane eyre | None | None | None
+comment_js_3e0 | Cindy Petersen Arnold | 1201957222 | Sacajawea, read it t | None | None | None
+comment_js_3e3 | JoJo Perry | 100009252425334 | The Harry Potter ser | None | None | None
+comment_js_3e4 | Katelyn Helgevold | 100000116269375 | Da Vinci code. I've  | None | None | None
+comment_js_3e7 | Tyler Steffens | 100001405479847 | The Outlander series | None | None | None
+comment_js_3e8 | Becky Thorpe | 1110454987 | A Little Princess. | None | None | None
+comment_js_3e9 | Jim Anderson | 100000073380218 | East of Eden | None | None | None
+comment_js_3ea | Erica Gandy Paddock | 1328321930 | Anne of Green Gables | None | None | None
+comment_js_3eb | McKenna Summers | 100012282213780 | Harry Potter and the | None | None | None
+comment_js_3ec | James Wilcox | 45400928 | Neil Gaiman's Sandma | None | None | None
+comment_js_3ed | Malinda Wilson | 100001926252217 | Lonesome Dove; The P | None | None | None

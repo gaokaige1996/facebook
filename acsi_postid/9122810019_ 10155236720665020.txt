@@ -1,0 +1,46 @@
+comment_js_17k | Barnes & Noble | 9122810019 | · 26:32 Alisyn: "Its | None | None | None
+comment_js_17l | Barnes & Noble | 9122810019 | · 43:20 Lauren: "Did | None | None | None
+comment_js_17m | Barnes & Noble | 9122810019 | · 1:02:20 Alisyn: "M | None | None | None
+comment_js_17n | Barnes & Noble | 9122810019 | · 22:50 Lauren asks  | None | None | None
+comment_js_17o | Barnes & Noble | 9122810019 | · 51:38 Lauren: "Wha | None | None | None
+comment_js_17p | Barnes & Noble | 9122810019 | · 0:00 Alisyn: "Ther | None | None | None
+comment_js_17q | Barnes & Noble | 9122810019 | · 24:50 Alisyn expla | None | None | None
+comment_js_17r | Barnes & Noble | 9122810019 | · 28:56 Alisyn expla | None | None | None
+comment_js_17s | Barnes & Noble | 9122810019 | · 47:08 Alisyn: "The | None | None | None
+comment_js_17t | Barnes & Noble | 9122810019 | · 57:32 Audience que | None | None | None
+comment_js_17u | Barnes & Noble | 9122810019 | · 32:41 Alisyn: "It  | None | None | None
+comment_js_17v | Barnes & Noble | 9122810019 | · 49:26 Lauren: "How | None | None | None
+comment_js_17w | Barnes & Noble | 9122810019 | · 42:08 Lauren asks: | None | None | None
+comment_js_17x | Barnes & Noble | 9122810019 | · 54:02 From our aud | None | None | None
+comment_js_17y | Barnes & Noble | 9122810019 | · 40:05 Lauren asks: | None | None | None
+comment_js_17z | Barnes & Noble | 9122810019 | · 3:05 Welcome to ou | None | None | None
+comment_js_180 | Barnes & Noble | 9122810019 | · 25:35 Lauren asks  | None | None | None
+comment_js_183 | Nancy Kaye | 674760102 | · 39:01 Do you ever  | None | None | None
+comment_js_184 | Humberto Montoya | 692345155 | · 8:07 Is it hard to | None | None | None
+comment_js_188 | Nancy Kaye | 674760102 | · 42:13 I never miss | None | None | None
+comment_js_189 | Laura Torres | 100000730910517 | · 16:15 Started to w | None | None | None
+comment_js_18a | Julie Redlin | 100000300377365 | · 3:35 How difficult | None | None | None
+comment_js_18b | Daniel Walgers | 100012831432058 | · 1:07 Comrade Chair | None | None | None
+comment_js_18c | Cory Gaffner | 100000576404366 | · 0:31 Still wonderi | None | None | None
+comment_js_18d | Juan Miguel Bassalik | 695070517 | · 1:04:20 How are yo | None | None | None
+comment_js_18e | Juan Miguel Bassalik | 695070517 | · 1:03:34 Alisyn, al | None | None | None
+comment_js_18f | Omar Lugones | 1001822669 | · 50:39 Matt, Lu Han | None | None | None
+comment_js_18g | Randolph Merced | 100009101364564 | · 57:51 I love Alyso | None | None | None
+comment_js_18h | Randolph Merced | 100009101364564 | · 57:35 Pre ordered | None | None | None
+comment_js_18i | James Rhodes | 1123614675 | · 45:36 I've been wa | None | None | None
+comment_js_18j | Angela Major-Vaughan | 558981560 | · 54:43 Got my book  | None | None | None
+comment_js_18k | Lu Hanessian | 709436751 | · 46:10 Hey Matt :)! | None | None | None
+comment_js_18l | James Rhodes | 1123614675 | · 48:32 Apologies fo | None | None | None
+comment_js_18m | Renato Gomes Morais | 100002568692638 | · 27:36 Good night f | None | None | None
+comment_js_18n | Renato Gomes Morais | 100002568692638 | · 25:31 Good night m | None | None | None
+comment_js_18o | Marc Brewer | 745514335 | · 20:21 how can we g | None | None | None
+comment_js_18p | Bart Bond | 100004836635454 | · 53:22 Thanks | None | None | None
+comment_js_18q | Tracey Machos Houston | 100000927233955 | · 15:58 Did you writ | None | None | None
+comment_js_18r | James Rhodes | 1123614675 | · 42:21 Beautiful | None | None | None
+comment_js_18s | Mathew Sheen | 712318266 | · 51:28 Mini Real Li | None | None | None
+comment_js_18t | Mathew Sheen | 712318266 | · 51:12 Hello Juan M | None | None | None
+comment_js_18u | Mathew Sheen | 712318266 | · 45:14 Hello Lu! | None | None | None
+comment_js_18v | Mollie Peer Twining | 1127732145 | · 0:00 I can't wait  | None | None | None
+comment_js_18w | Richard Taleghani | 739319817 | · 1:04:31👌 | None | None | None
+comment_js_18x | James Evans | 100001180359875 | · 0:00 Put Milo on t | None | None | None
+comment_js_18y | Elec Arr | 100002641171111 | · 0:00 Where's Milos | None | None | None

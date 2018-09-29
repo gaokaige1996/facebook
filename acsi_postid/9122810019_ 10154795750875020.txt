@@ -1,0 +1,2 @@
+comment_js_a | Jason West | 1571599469 | went into your store | None | None | None
+comment_js_q | Antonio Vasquez | 100007658531637 | Hablan español | None | None | None
